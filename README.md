@@ -5,7 +5,7 @@ Note: The provided API keys are solely for demonstration purposes within the exi
 
 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
-# * Part 1: WeatherPy
+## * Part 1: WeatherPy
 
 This analysis explored the relationship between latitude and key weather parameters across different hemispheres. Various insights into regional climate variations were sought by examining how latitude influences temperature, humidity, cloudiness, and wind speed. This exploration contributes to a better understanding of the complex interplay between geography and weather dynamics, facilitating informed decision-making in various sectors.
 
@@ -46,7 +46,7 @@ In the Southern Hemisphere, latitude shows a weak negative relationship with win
 This suggests that, on average, wind speed tends to decrease slightly as latitude increases, but the effect size is relatively small compared to other factors influencing wind patterns.
 
 
-# * VacationPy
+## * Part 1: * VacationPy
 
 This analysis explores weather data extracted from a list of cities across the globe. The data includes parameters such as temperature, humidity, wind speed, and cloudiness. Below is a summary of the steps and insights derived from the provided code:
 
