@@ -1,11 +1,11 @@
-Module 6 Challenge
+# Module 6 Challenge
 
 
 Note: The provided API keys are solely for demonstration purposes within the existing Python codes. If users wish to access additional features or conduct further investigations, they are required to obtain their own API key. 
 
 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
-* Part 1: WeatherPy*
+# * Part 1: WeatherPy
 
 In this analysis, I investigate the relationship between latitude and key weather parameters across different hemispheres. By examining how latitude influences temperature, humidity, cloudiness, and wind speed, we aim to gain insights into regional climate variations. This exploration will contribute to a better understanding of the complex interplay between geography and weather dynamics, facilitating informed decision-making in various sectors.
 
@@ -46,7 +46,7 @@ In the Southern Hemisphere, latitude shows a weak negative relationship with win
 This suggests that, on average, wind speed tends to decrease slightly as latitude increases, but the effect size is relatively small compared to other factors influencing wind patterns.
 
 
-* VacationPy
+# * VacationPy
 
 This analysis explores weather data extracted from a list of cities across the globe. The data includes parameters such as temperature, humidity, wind speed, and cloudiness. Below is a summary of the steps and insights derived from the provided code:
 
@@ -71,10 +71,10 @@ Another geographical plot is generated to display the selected cities along with
 The plot points indicate city locations, and the hotel names are displayed upon hovering over the points.
 
 
-*Instructions
+# *Instructions
 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
-Part 1: WeatherPy
+# Part 1: WeatherPy
 
 In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python library Links to an external site., the OpenWeatherMap API Links to an external site., and your problem-solving skills to create a representative model of weather across cities.
 For this part, you'll use the WeatherPy.ipynb Jupyter notebook provided in the starter code ZIP file. The starter code will guide you through the process of using your Python coding skills to develop a solution to address the required functionalities.
@@ -101,7 +101,7 @@ Southern Hemisphere: Cloudiness vs. Latitude
 Northern Hemisphere: Wind Speed vs. Latitude
 Southern Hemisphere: Wind Speed vs. Latitude
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
-Part 2: VacationPy
+# Part 2: VacationPy
 
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 is provided to help you get started.
